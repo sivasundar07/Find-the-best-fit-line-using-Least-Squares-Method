@@ -46,6 +46,7 @@ plt.ylabel('Y')
 plt.title('Univariate Linear Regression using Least Squares')
 plt.legend()
 plt.show()
+
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 
